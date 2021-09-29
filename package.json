@@ -1,0 +1,17 @@
+{
+  "name": "ezbot---discord.js",
+  "version": "1.0.0",
+  "description": "Make yourself a Discord.JS bot with minimal coding knowledge! Just edit the .txt file and you're all set with your BRAND NEW discord bot.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/bot.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord-akairo": "github:discord-akairo/discord-akairo",
+    "discord.js": "^13.1.0",
+    "node-fetch": "^3.0.0"
+  }
+}

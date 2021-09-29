@@ -1,0 +1,36 @@
+// Discord Bot Dashboard. 
+// Only adjust the values for each option. DO NOT DELETE LINES or else the bot will not work.
+// open the read.md for more info.
+
+
+// Credentials.
+bot_token: 
+
+
+// General Bot Info.
+prefix: 
+usage_cooldown: 
+
+
+// Message Responder. 
+message_command: 
+message_description: 
+message_embed: 
+message_color: 
+message_title: 
+message_footer: 
+message_footer_image: 
+message_author: 
+message_author_image: 
+message_image: 
+
+message_command:
+message_description: 
+message_embed:
+message_color:
+message_title: 
+message_footer:
+message_footer_image: 
+message_author:
+message_author_image: 
+message_image:
